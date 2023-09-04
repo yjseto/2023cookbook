@@ -1,0 +1,20 @@
+nav a.active:visited,
+nav a.active:visited {
+    color: blue;
+    border-color: blue
+}
+
+
+/* 
+To use: In the <header> area::after
+
+<nav>
+<ul>
+  <li><a href="recipe-starter.html">Starter</a></li>
+  <li><a class="active" href="salsa.html">Salsa</a></li>
+  <li><a href="ccookies.html">Chocolate Chip Cookies</a></li>
+  <li><a href="brownies.html">Brownies</a></li>
+  <li><a href="hummus.html">Hummus</a></li>
+</ul>
+</nav> 
+*/
