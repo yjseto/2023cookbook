@@ -7,7 +7,7 @@ The purpose is to give you a chance to write some HTML and to use git. As a free
 
 Your job is to add to this repo an HTML page with a recipe that speaks to you. Add images to the folder *images*, and add a link to your recipe page in the file *index.html*. You can see what I did in https://uaa490.org/2023cookbook/recipe-salsa.html; you can start with a copy of that file or start with a copy of https://uaa490.org/2023cookbook/recipe-starter.html or start bare-bones. The skeleton of your html page will be the following:
 
-```
+```asdfasdf
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
